@@ -67,7 +67,7 @@ def choose():
     1. Relax - 4 counts in, 7 counts hold, 8 counts out
     2. Box - 4 counts in, 4 counts hold, 4 counts out, 4 counts hold
     3. Energize - 6 counts in, 2 counts out
-    4. DIY - Enter your own pattern (coming soon)
+    4. DIY - Enter your own pattern
     """)
     pattern_choice = int(input("What'll it be? Pick 1-4  "))
     if pattern_choice == 1:
